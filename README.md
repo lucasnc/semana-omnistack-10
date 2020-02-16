@@ -1,1 +1,1 @@
-# semana-omnistack-10
+# Projeto DevRadar - Semana OmniStack #10
